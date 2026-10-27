@@ -468,7 +468,7 @@ $to   = min($offset + $limit, $totalData);
                           class="form-control"
                           id="new-nim"
                           name="nim"
-                          placeholder="e.g. 3202416080"
+                          placeholder="e.g. 3202416143"
                           required
                         />
                       </div>
